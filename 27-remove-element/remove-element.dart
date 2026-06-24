@@ -1,5 +1,4 @@
 class Solution {
-    //
   int removeElement(List<int> nums, int val) {
     int count = 0;
     int lenght = nums.length;
